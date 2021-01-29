@@ -1,8 +1,9 @@
-function test (name) {
-  const age = 'abc'
+function test(name) {
+  console.log(name);
 }
+const firstName = 'pedro';
 
-const age = 123
+const things = ['abc', 'abc', 'abc'];
+things.pop();
 
-const things = ['abc', 'abc', 'abc']
-const text = 'abc'
+test(firstName);
