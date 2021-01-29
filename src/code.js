@@ -5,3 +5,4 @@ function test(name) {
 const age = 123;
 
 const things = ['abc', 'abc', 'abc'];
+const text = 'abc';
