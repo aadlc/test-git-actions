@@ -27,3 +27,5 @@ jobs:
           DEFAULT_BRANCH: main
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           FILTER_REGEX_INCLUDE: .*src/.*
+          OUTPUT_FOLDER: ./src
+          OUTPUT_DETAILS: detailed
