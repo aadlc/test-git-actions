@@ -1,3 +1,5 @@
 const abc = null;
 
-const defg = nul;
+const myfunction = (t) => console.log(t);
+
+myfunction(abc);
